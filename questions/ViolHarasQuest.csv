@@ -1,0 +1,346 @@
+,question_code,answer,question_label
+0,e1,Don`t know,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?"
+1,e1,I do not have a same-sex partner,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?"
+2,e1,No,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?"
+3,e1,Yes,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?"
+4,e2,Don`t know,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?"
+5,e2,No,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?"
+6,e2,Yes,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?"
+7,e3,"A cafe, restaurant, pub, club","Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+8,e3,A park,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+9,e3,A sports club,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+10,e3,"A street, square, car parking lot or other public place","Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+11,e3,My home,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+12,e3,Other,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+13,e3,Public premises or buildings,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+14,e3,Public transport,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+15,e3,School,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+16,e3,Workplace,"Where do you avoid being open about yourself as L, G, B or T for fear of being assaulted, threatened or harassed by others?"
+17,f1_a,No,"In the last 5 years, have you been: physically/sexually attacked or threatened with violence at home or elsewhere (street, on public transport, at your workplace, etc) for any reason?"
+18,f1_a,Yes,"In the last 5 years, have you been: physically/sexually attacked or threatened with violence at home or elsewhere (street, on public transport, at your workplace, etc) for any reason?"
+19,f1_b,No,"In the last 5 years, have you been: personally harassed by someone or a group for any reason in a way that really annoyed, offended or upset you - either at work, home, on the street, on public transport, in a shop, in an office or on the internet ?"
+20,f1_b,Yes,"In the last 5 years, have you been: personally harassed by someone or a group for any reason in a way that really annoyed, offended or upset you - either at work, home, on the street, on public transport, in a shop, in an office or on the internet ?"
+21,fa1_10,"At an LGBT specific venue (e.g. club, bar) or event (e.g. pride)",Where did the last incident of physical / sexual attack or threat of violence happen?
+22,fa1_10,At my home,Where did the last incident of physical / sexual attack or threat of violence happen?
+23,fa1_10,"At school, university",Where did the last incident of physical / sexual attack or threat of violence happen?
+24,fa1_10,At the workplace,Where did the last incident of physical / sexual attack or threat of violence happen?
+25,fa1_10,Elsewhere indoors,Where did the last incident of physical / sexual attack or threat of violence happen?
+26,fa1_10,Elsewhere outdoors,Where did the last incident of physical / sexual attack or threat of violence happen?
+27,fa1_10,"In a cafe, restaurant, pub, club",Where did the last incident of physical / sexual attack or threat of violence happen?
+28,fa1_10,In a car,Where did the last incident of physical / sexual attack or threat of violence happen?
+29,fa1_10,"In a park, forest",Where did the last incident of physical / sexual attack or threat of violence happen?
+30,fa1_10,In a sports club,Where did the last incident of physical / sexual attack or threat of violence happen?
+31,fa1_10,"In a street, square, car parking lot or other public place",Where did the last incident of physical / sexual attack or threat of violence happen?
+32,fa1_10,In public transport,Where did the last incident of physical / sexual attack or threat of violence happen?
+33,fa1_10,"In some other residential building, apartment",Where did the last incident of physical / sexual attack or threat of violence happen?
+34,fa1_10,Other,Where did the last incident of physical / sexual attack or threat of violence happen?
+35,fa1_11,Don`t know,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to the police?
+36,fa1_11,No,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to the police?
+37,fa1_11,Yes,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to the police?
+38,fa1_12,Dealt with it myself/involved a friend/family matter,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+39,fa1_12,Did not think they could do anything,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+40,fa1_12,Did not think they would do anything,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+41,fa1_12,Didn`t want the offender arrested or to get in trouble with the police,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+42,fa1_12,Fear of a homophobic and/or transphobic reaction from the police,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+43,fa1_12,"Fear of offender, fear of reprisal",Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+44,fa1_12,Other reason,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+45,fa1_12,"Shame, embarrassment, didn`t want anyone to know",Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+46,fa1_12,Somebody stopped me or discouraged me,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+47,fa1_12,Thought it was my fault,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+48,fa1_12,Too emotionally upset to contact the police,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+49,fa1_12,Too minor / not serious enough / never occurred to me,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+50,fa1_12,Went directly to a magistrate or judge to report the incident,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+51,fa1_12,Went someplace else for help,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+52,fa1_12,Would not be believed,Why did you not report the last incident of physical / sexual attack or threat of violence to the police?
+53,fa1_13,General victim support organisation,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+54,fa1_13,Hospital or other medical service,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+55,fa1_13,LGBT organisation,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+56,fa1_13,"No, did not report",Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+57,fa1_13,Non-governmental organisation,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+58,fa1_13,Other organisation,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+59,fa1_13,Rape crisis centre,Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+60,fa1_13,State or national institution (such as an Equality Body),Did you or anyone else report the last incident of physical / sexual attack or threat of violence to any of the following organisations / institutions? *
+61,fa1_3,Five times,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+62,fa1_3,Four times,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+63,fa1_3,More than ten times,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+64,fa1_3,Once,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+65,fa1_3,Six to ten times,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+66,fa1_3,Three times,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+67,fa1_3,Twice,How many times did somebody physically/sexually attack or threaten you with violence in the last 12 months in the European Union / in this country?
+68,fa1_4,Don`t know,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+69,fa1_4,Physical and sexual attack,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+70,fa1_4,Physical attack,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+71,fa1_4,Sexual attack,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+72,fa1_4,Threat of both physical and sexual violence,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+73,fa1_4,Threat of physical violence,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+74,fa1_4,Threat of sexual violence,"Thinking about the LAST physical / sexual attack or threat of violence, what happened to you? *"
+75,fa1_5,Don`t know,"Do you think the LAST incident of physical / sexual attack or threat of violence in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+76,fa1_5,No,"Do you think the LAST incident of physical / sexual attack or threat of violence in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+77,fa1_5,Yes,"Do you think the LAST incident of physical / sexual attack or threat of violence in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+78,fa1_6,Alone,"Was the perpetrator alone, or was there more than one perpetrator?"
+79,fa1_6,More perpetrators,"Was the perpetrator alone, or was there more than one perpetrator?"
+80,fa1_7,"A customer, client or patient",LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+81,fa1_7,Colleague at work,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+82,fa1_7,Family/household member,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+83,fa1_7,Member of an extremist/racist group,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+84,fa1_7,Neighbour,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+85,fa1_7,Other,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+86,fa1_7,"Other public official (e.g. border guard, civil servant)",LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+87,fa1_7,Police officer,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+88,fa1_7,Security officer/bouncer,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+89,fa1_7,Someone else you didn`t know,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+90,fa1_7,Someone else you know,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+91,fa1_7,"Someone from school, college or university",LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+92,fa1_7,Teenager or group of teenagers,LAST incident of physical / sexual attack or threat of violence in the past 12 months - who was the perpetrator?
+93,fa1_8,Both male and female,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What was the gender of the perpetrator(s)?
+94,fa1_8,Don`t know,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What was the gender of the perpetrator(s)?
+95,fa1_8,Female,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What was the gender of the perpetrator(s)?
+96,fa1_8,Male,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What was the gender of the perpetrator(s)?
+97,fa1_9,Bisexual,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+98,fa1_9,Don`t know,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+99,fa1_9,Gay,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+100,fa1_9,Heterosexual/Straight,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+101,fa1_9,Lesbian,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+102,fa1_9,Mixed sexual orientation,LAST incident of physical / sexual attack or threat of violence in the past 12 months - What do you think the perpetrator(s) was? *
+103,fa2_10,"At an LGBT specific venue (e.g. club, bar) or event (e.g. pride)",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+104,fa2_10,At my home,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+105,fa2_10,"At school, university",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+106,fa2_10,At the workplace,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+107,fa2_10,Elsewhere indoors,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+108,fa2_10,Elsewhere outdoors,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+109,fa2_10,"In a cafe, restaurant, pub, club",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+110,fa2_10,In a car,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+111,fa2_10,"In a park, forest",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+112,fa2_10,In a sports club,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+113,fa2_10,"In a street, square, car parking lot or other public place",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+114,fa2_10,In public transport,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+115,fa2_10,"In some other residential building, apartment",The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+116,fa2_10,Other,The MOST SERIOUS physical / sexual attack or threat of violence - Where did it happen?
+117,fa2_11,Don`t know,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to the police?
+118,fa2_11,No,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to the police?
+119,fa2_11,Yes,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to the police?
+120,fa2_12,Dealt with it myself/involved a friend/family matter,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+121,fa2_12,Did not think they could do anything,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+122,fa2_12,Did not think they would do anything,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+123,fa2_12,Didn`t want the offender arrested or to get in trouble with the police,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+124,fa2_12,Fear of a homophobic and/or transphobic reaction from the police,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+125,fa2_12,"Fear of offender, fear of reprisal",MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+126,fa2_12,Other reason,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+127,fa2_12,"Shame, embarrassment, didn`t want anyone to know",MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+128,fa2_12,Somebody stopped me or discouraged me,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+129,fa2_12,Thought it was my fault,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+130,fa2_12,Too emotionally upset to contact the police,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+131,fa2_12,Too minor / not serious enough / never occurred to me,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+132,fa2_12,Went directly to a magistrate or judge to report the incident,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+133,fa2_12,Went someplace else for help,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+134,fa2_12,Would not be believed,MOST SERIOUS physical / sexual attack or threat of violence - Why did you not report it to the police?
+135,fa2_13,General victim support organisation,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+136,fa2_13,Hospital or other medical service,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+137,fa2_13,LGBT organisation,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+138,fa2_13,"No, did not report",MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+139,fa2_13,Non-governmental organisation,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+140,fa2_13,Other organisation,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+141,fa2_13,Rape crisis centre,MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+142,fa2_13,State or national institution (such as an Equality Body),MOST SERIOUS physical / sexual attack or threat of violence - Did you or anyone else report it to any of the following organisations / institutions? *
+143,fa2_4,Don`t know,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+144,fa2_4,Physical and sexual attack,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+145,fa2_4,Physical attack,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+146,fa2_4,Sexual attack,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+147,fa2_4,Threat of both physical and sexual violence,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+148,fa2_4,Threat of physical violence,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+149,fa2_4,Threat of sexual violence,"Thinking about the MOST SERIOUS physical / sexual attack or threat of violence, what happened to you? *"
+150,fa2_5,Don`t know,"Do you think this physical / sexual attack or threat happened partly or completely because you were perceived to be L, G, B or T?"
+151,fa2_5,No,"Do you think this physical / sexual attack or threat happened partly or completely because you were perceived to be L, G, B or T?"
+152,fa2_5,Yes,"Do you think this physical / sexual attack or threat happened partly or completely because you were perceived to be L, G, B or T?"
+153,fa2_6,Alone,"MOST SERIOUS physical / sexual attack or threat of violence - Was the perpetrator alone, or was there more than one perpetrator?"
+154,fa2_6,More perpetrators,"MOST SERIOUS physical / sexual attack or threat of violence - Was the perpetrator alone, or was there more than one perpetrator?"
+155,fa2_7,"A customer, client or patient",MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+156,fa2_7,Colleague at work,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+157,fa2_7,Family/household member,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+158,fa2_7,Member of an extremist/racist group,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+159,fa2_7,Neighbour,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+160,fa2_7,Other,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+161,fa2_7,"Other public official (e.g. border guard, civil servant)",MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+162,fa2_7,Police officer,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+163,fa2_7,Security officer/bouncer,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+164,fa2_7,Someone else you didn`t know,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+165,fa2_7,Someone else you know,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+166,fa2_7,"Someone from school, college or university",MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+167,fa2_7,Teenager or group of teenagers,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? *
+168,fa2_8,Both male and female,MOST SERIOUS physical / sexual attack or threat of violence - What was the gender of the perpetrator(s)?
+169,fa2_8,Don`t know,MOST SERIOUS physical / sexual attack or threat of violence - What was the gender of the perpetrator(s)?
+170,fa2_8,Female,MOST SERIOUS physical / sexual attack or threat of violence - What was the gender of the perpetrator(s)?
+171,fa2_8,Male,MOST SERIOUS physical / sexual attack or threat of violence - What was the gender of the perpetrator(s)?
+172,fa2_9,Bisexual,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+173,fa2_9,Don`t know,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+174,fa2_9,Gay,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+175,fa2_9,Heterosexual/Straight,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+176,fa2_9,Lesbian,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+177,fa2_9,Mixed sexual orientation,MOST SERIOUS physical / sexual attack or threat of violence - Do you think the perpetrator(s) was? (sexual orientation)
+178,fb1_10,"At an LGBT specific venue (e.g. club, bar) or event (e.g. pride)",LAST incident of harassment in the past 12 months - Where did it happen?
+179,fb1_10,At my home,LAST incident of harassment in the past 12 months - Where did it happen?
+180,fb1_10,"At school, university",LAST incident of harassment in the past 12 months - Where did it happen?
+181,fb1_10,At the workplace,LAST incident of harassment in the past 12 months - Where did it happen?
+182,fb1_10,Elsewhere indoors,LAST incident of harassment in the past 12 months - Where did it happen?
+183,fb1_10,Elsewhere outdoors,LAST incident of harassment in the past 12 months - Where did it happen?
+184,fb1_10,"In a cafe, restaurant, pub, club",LAST incident of harassment in the past 12 months - Where did it happen?
+185,fb1_10,In a car,LAST incident of harassment in the past 12 months - Where did it happen?
+186,fb1_10,"In a park, forest",LAST incident of harassment in the past 12 months - Where did it happen?
+187,fb1_10,In a sports club,LAST incident of harassment in the past 12 months - Where did it happen?
+188,fb1_10,"In a street, square, car parking lot or other public place",LAST incident of harassment in the past 12 months - Where did it happen?
+189,fb1_10,In public transport,LAST incident of harassment in the past 12 months - Where did it happen?
+190,fb1_10,"In some other residential building, apartment",LAST incident of harassment in the past 12 months - Where did it happen?
+191,fb1_10,"On the internet / email (including Facebook, Twitter, etc.)",LAST incident of harassment in the past 12 months - Where did it happen?
+192,fb1_10,Other,LAST incident of harassment in the past 12 months - Where did it happen?
+193,fb1_11,Don`t know,LAST incident of harassment in the past 12 months - Did you or anyone else report it to the police?
+194,fb1_11,No,LAST incident of harassment in the past 12 months - Did you or anyone else report it to the police?
+195,fb1_11,Yes,LAST incident of harassment in the past 12 months - Did you or anyone else report it to the police?
+196,fb1_12,Dealt with it myself/involved a friend/family matter,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+197,fb1_12,Did not think they could do anything,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+198,fb1_12,Did not think they would do anything,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+199,fb1_12,Didn`t want the offender arrested or to get in trouble with the police,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+200,fb1_12,Fear of a homophobic and/or transphobic reaction from the police,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+201,fb1_12,"Fear of offender, fear of reprisal",LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+202,fb1_12,Other reason,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+203,fb1_12,"Shame, embarrassment, didn`t want anyone to know",LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+204,fb1_12,Somebody stopped me or discouraged me,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+205,fb1_12,Thought it was my fault,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+206,fb1_12,Too emotionally upset to contact the police,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+207,fb1_12,Too minor / not serious enough / never occurred to me,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+208,fb1_12,Went directly to a magistrate or judge to report the incident,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+209,fb1_12,Went someplace else for help,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+210,fb1_12,Would not be believed,LAST incident of harassment in the past 12 months - Why did you not report it to the police?
+211,fb1_13,General victim support organisation,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+212,fb1_13,Hospital or other medical service,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+213,fb1_13,Internet service provider,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+214,fb1_13,LGBT organisation,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+215,fb1_13,"No, did not report",LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+216,fb1_13,Non-governmental organisation,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+217,fb1_13,Other organisation,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+218,fb1_13,Rape crisis centre,LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+219,fb1_13,State or national institution (such as an Equality Body),LAST incident of harassment in the past 12 months - Did you or anyone else report it to any of the following organisations / institutions? *
+220,fb1_3,Five times,How many times did somebody harass you in the last 12 months?
+221,fb1_3,Four times,How many times did somebody harass you in the last 12 months?
+222,fb1_3,More than ten times,How many times did somebody harass you in the last 12 months?
+223,fb1_3,Once,How many times did somebody harass you in the last 12 months?
+224,fb1_3,Six to ten times,How many times did somebody harass you in the last 12 months?
+225,fb1_3,Three times,How many times did somebody harass you in the last 12 months?
+226,fb1_3,Twice,How many times did somebody harass you in the last 12 months?
+227,fb1_4,Aggressive gestures (such as pointing),"Thinking about the LAST incident of harassment, what happened to you: *"
+228,fb1_4,Bullying,"Thinking about the LAST incident of harassment, what happened to you: *"
+229,fb1_4,Excessive /constant negative comments,"Thinking about the LAST incident of harassment, what happened to you: *"
+230,fb1_4,Isolation from something or somebody; ignoring,"Thinking about the LAST incident of harassment, what happened to you: *"
+231,fb1_4,Name calling,"Thinking about the LAST incident of harassment, what happened to you: *"
+232,fb1_4,Other,"Thinking about the LAST incident of harassment, what happened to you: *"
+233,fb1_4,"Other non-verbal insult, abuse, humiliation (such as text or image)","Thinking about the LAST incident of harassment, what happened to you: *"
+234,fb1_4,Other verbal insult/abuse/humiliation,"Thinking about the LAST incident of harassment, what happened to you: *"
+235,fb1_4,Ridiculing (making jokes about you),"Thinking about the LAST incident of harassment, what happened to you: *"
+236,fb1_5,Don`t know,"Do you think the LAST incident of harassment in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+237,fb1_5,No,"Do you think the LAST incident of harassment in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+238,fb1_5,Yes,"Do you think the LAST incident of harassment in the past 12 months happened partly or completely because you were perceived to be L, G, B or T?"
+239,fb1_6,Alone,"LAST incident of harassment in the past 12 months - Was the perpetrator alone, or was there more than one perpetrator?"
+240,fb1_6,Don`t know,"LAST incident of harassment in the past 12 months - Was the perpetrator alone, or was there more than one perpetrator?"
+241,fb1_6,More perpetrators,"LAST incident of harassment in the past 12 months - Was the perpetrator alone, or was there more than one perpetrator?"
+242,fb1_7,"A customer, client or patient",LAST incident of harassment in the past 12 months - who was the perpetrator?
+243,fb1_7,Colleague at work,LAST incident of harassment in the past 12 months - who was the perpetrator?
+244,fb1_7,Family/household member,LAST incident of harassment in the past 12 months - who was the perpetrator?
+245,fb1_7,Member of an extremist/racist group,LAST incident of harassment in the past 12 months - who was the perpetrator?
+246,fb1_7,Neighbour,LAST incident of harassment in the past 12 months - who was the perpetrator?
+247,fb1_7,Other,LAST incident of harassment in the past 12 months - who was the perpetrator?
+248,fb1_7,"Other public official (e.g. border guard, civil servant)",LAST incident of harassment in the past 12 months - who was the perpetrator?
+249,fb1_7,Police officer,LAST incident of harassment in the past 12 months - who was the perpetrator?
+250,fb1_7,Security officer/bouncer,LAST incident of harassment in the past 12 months - who was the perpetrator?
+251,fb1_7,Someone else you didn`t know,LAST incident of harassment in the past 12 months - who was the perpetrator?
+252,fb1_7,Someone else you know,LAST incident of harassment in the past 12 months - who was the perpetrator?
+253,fb1_7,"Someone from school, college or university",LAST incident of harassment in the past 12 months - who was the perpetrator?
+254,fb1_7,Teenager or group of teenagers,LAST incident of harassment in the past 12 months - who was the perpetrator?
+255,fb1_8,Both male and female,LAST incident of harassment in the past 12 months - What was the gender of the perpetrator(s)?
+256,fb1_8,Don`t know,LAST incident of harassment in the past 12 months - What was the gender of the perpetrator(s)?
+257,fb1_8,Female,LAST incident of harassment in the past 12 months - What was the gender of the perpetrator(s)?
+258,fb1_8,Male,LAST incident of harassment in the past 12 months - What was the gender of the perpetrator(s)?
+259,fb1_9,Bisexual,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+260,fb1_9,Don`t know,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+261,fb1_9,Gay,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+262,fb1_9,Heterosexual/Straight,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+263,fb1_9,Lesbian,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+264,fb1_9,Mixed sexual orientation,LAST incident of harassment in the past 12 months - Do you think the perpetrator(s) was ...? (sexual orientation)
+265,fb2_10,"At an LGBT specific venue (e.g. club, bar) or event (e.g. pride)",MOST SERIOUS incident of harassment - Where did it happen?
+266,fb2_10,At my home,MOST SERIOUS incident of harassment - Where did it happen?
+267,fb2_10,"At school, university",MOST SERIOUS incident of harassment - Where did it happen?
+268,fb2_10,At the workplace,MOST SERIOUS incident of harassment - Where did it happen?
+269,fb2_10,Elsewhere indoors,MOST SERIOUS incident of harassment - Where did it happen?
+270,fb2_10,Elsewhere outdoors,MOST SERIOUS incident of harassment - Where did it happen?
+271,fb2_10,"In a cafe, restaurant, pub, club",MOST SERIOUS incident of harassment - Where did it happen?
+272,fb2_10,In a car,MOST SERIOUS incident of harassment - Where did it happen?
+273,fb2_10,"In a park, forest",MOST SERIOUS incident of harassment - Where did it happen?
+274,fb2_10,In a sports club,MOST SERIOUS incident of harassment - Where did it happen?
+275,fb2_10,"In a street, square, car parking lot or other public place",MOST SERIOUS incident of harassment - Where did it happen?
+276,fb2_10,In public transport,MOST SERIOUS incident of harassment - Where did it happen?
+277,fb2_10,"In some other residential building, apartment",MOST SERIOUS incident of harassment - Where did it happen?
+278,fb2_10,"On the internet / email (including Facebook, Twitter, etc.)",MOST SERIOUS incident of harassment - Where did it happen?
+279,fb2_10,Other,MOST SERIOUS incident of harassment - Where did it happen?
+280,fb2_11,Don`t know,MOST SERIOUS incident of harassment - Did you or anyone else report it to the police?
+281,fb2_11,No,MOST SERIOUS incident of harassment - Did you or anyone else report it to the police?
+282,fb2_11,Yes,MOST SERIOUS incident of harassment - Did you or anyone else report it to the police?
+283,fb2_12,Dealt with it myself/involved a friend/family matter,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+284,fb2_12,Did not think they could do anything,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+285,fb2_12,Did not think they would do anything,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+286,fb2_12,Didn`t want the offender arrested or to get in trouble with the police,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+287,fb2_12,Fear of a homophobic and/or transphobic reaction from the police,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+288,fb2_12,"Fear of offender, fear of reprisal",MOST SERIOUS incident of harassment - Why did you not report it to the police?
+289,fb2_12,Other reason,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+290,fb2_12,"Shame, embarrassment, didn`t want anyone to know",MOST SERIOUS incident of harassment - Why did you not report it to the police?
+291,fb2_12,Thought it was my fault,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+292,fb2_12,Too emotionally upset to contact the police,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+293,fb2_12,Too minor / not serious enough / never occurred to me,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+294,fb2_12,Went directly to a magistrate or judge to report the incident,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+295,fb2_12,Went someplace else for help,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+296,fb2_12,Would not be believed,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+297,fb2_12,omebody stopped me or discouraged me,MOST SERIOUS incident of harassment - Why did you not report it to the police?
+298,fb2_13,General victim support organisation,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+299,fb2_13,Hospital or other medical service,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+300,fb2_13,Internet service provider,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+301,fb2_13,LGBT organisation,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+302,fb2_13,"No, did not report",MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+303,fb2_13,Non-governmental organisation,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+304,fb2_13,Other organisation,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+305,fb2_13,Rape crisis centre,MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+306,fb2_13,State or national institution (such as an Equality Body),MOST SERIOUS incident of harassment - Did you or anyone else report it to any of the following organisations / institutions? *
+307,fb2_4,Aggressive gestures (such as pointing),"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+308,fb2_4,Bullying,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+309,fb2_4,Excessive /constant negative comments,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+310,fb2_4,Isolation from something or somebody; ignoring,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+311,fb2_4,Name calling,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+312,fb2_4,Other,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+313,fb2_4,"Other non-verbal insult, abuse, humiliation (such as text or image)","Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+314,fb2_4,Other verbal insult/abuse/humiliation,"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+315,fb2_4,Ridiculing (making jokes about you),"Thinking about the MOST SERIOUS incident of harassment, what happened to you? *"
+316,fb2_5,Don`t know,"Do you think the MOST SERIOUS incident of harassment happened partly or completely because you were perceived to be L, G, B or T?"
+317,fb2_5,No,"Do you think the MOST SERIOUS incident of harassment happened partly or completely because you were perceived to be L, G, B or T?"
+318,fb2_5,Yes,"Do you think the MOST SERIOUS incident of harassment happened partly or completely because you were perceived to be L, G, B or T?"
+319,fb2_6,Alone,"MOST SERIOUS incident of harassment - Was the perpetrator alone, or was there more than one perpetrator?"
+320,fb2_6,Don`t know,"MOST SERIOUS incident of harassment - Was the perpetrator alone, or was there more than one perpetrator?"
+321,fb2_6,More perpetrators,"MOST SERIOUS incident of harassment - Was the perpetrator alone, or was there more than one perpetrator?"
+322,fb2_7,"A customer, client or patient",MOST SERIOUS incident of harassment - who was the perpetrator?
+323,fb2_7,Colleague at work,MOST SERIOUS incident of harassment - who was the perpetrator?
+324,fb2_7,Family/household member,MOST SERIOUS incident of harassment - who was the perpetrator?
+325,fb2_7,Member of an extremist/racist group,MOST SERIOUS incident of harassment - who was the perpetrator?
+326,fb2_7,Neighbour,MOST SERIOUS incident of harassment - who was the perpetrator?
+327,fb2_7,Other,MOST SERIOUS incident of harassment - who was the perpetrator?
+328,fb2_7,"Other public official (e.g. border guard, civil servant)",MOST SERIOUS incident of harassment - who was the perpetrator?
+329,fb2_7,Police officer,MOST SERIOUS incident of harassment - who was the perpetrator?
+330,fb2_7,Security officer/bouncer,MOST SERIOUS incident of harassment - who was the perpetrator?
+331,fb2_7,Someone else you didn`t know,MOST SERIOUS incident of harassment - who was the perpetrator?
+332,fb2_7,Someone else you know,MOST SERIOUS incident of harassment - who was the perpetrator?
+333,fb2_7,"Someone from school, college or university",MOST SERIOUS incident of harassment - who was the perpetrator?
+334,fb2_7,Teenager or group of teenagers,MOST SERIOUS incident of harassment - who was the perpetrator?
+335,fb2_8,Both male and female,MOST SERIOUS incident of harassment - What was the gender of the perpetrator(s)?
+336,fb2_8,Don`t know,MOST SERIOUS incident of harassment - What was the gender of the perpetrator(s)?
+337,fb2_8,Female,MOST SERIOUS incident of harassment - What was the gender of the perpetrator(s)?
+338,fb2_8,Male,MOST SERIOUS incident of harassment - What was the gender of the perpetrator(s)?
+339,fb2_9,Bisexual,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
+340,fb2_9,Don`t know,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
+341,fb2_9,Gay,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
+342,fb2_9,Heterosexual/Straight,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
+343,fb2_9,Lesbian,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
+344,fb2_9,Mixed sexual orientation,MOST SERIOUS incident of harassment - Do you think the perpetrator(s) was ...? (sexual orientation)
